@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://github.com/Adansote/chat-react-firebase-storage/assets/96309302/6c123869-1563-4f5d-82c4-1bb90f251986)
+![image](https://github.com/Adansote/chat-react-firebase-storage/assets/96309302/d09d445c-1ff0-43dc-8115-974a0ce9d114)
+
 ## Available Scripts
 
 In the project directory, you can run:
